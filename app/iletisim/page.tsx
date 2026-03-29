@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 const formFields = [
   { label: 'Ad Soyad', type: 'text', placeholder: 'Adınızı ve soyadınızı girin' },
-  { label: 'Telefon', type: 'tel', placeholder: '0532 136 18 15' },
+  { label: 'Telefon', type: 'tel', placeholder: '0532 136 1815' },
   { label: 'Cihaz Modeli', type: 'text', placeholder: 'Örn. iPhone 14 Pro' },
 ]
 

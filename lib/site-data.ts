@@ -1,5 +1,5 @@
 export const contact = {
-  phoneDisplay: '0532 136 18 15',
+  phoneDisplay: '0532 136 1815',
   phoneHref: 'tel:+905321361815',
   whatsappDisplay: 'WhatsApp Destek',
   whatsappHref:
